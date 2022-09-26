@@ -8,7 +8,8 @@ SID - 21104083
 // While traversing a single-circular linked list, which condition establishes that the traversing element/variable has reached the first element?
 
 // SOLUTON - We can maintain a check that the varaible pointer , whenver it points to the adress same as that of the head node it must stop.
-// now this logic has been implemented in this code.
+// now we will be using this logic here.
+    
 #include <iostream>
 #include <vector>
 #include <algorithm>
